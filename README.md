@@ -1,2 +1,3 @@
 # hello-world
-My first repository on GitHub
+my name is Hussen , i'm trying to add new repository ,
+so this is the first repository on GitHub
